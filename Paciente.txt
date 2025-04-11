@@ -2,3 +2,14 @@ Juan Perez, fractura de pierna, C
 Maria Ramirez, apendicitis, A
 Lorenzo Toledo, chikunguya, E
 Carmen Sarmientos, dolores de parto, B
+Esteban Colón, fiebre alta, D
+Andrea Morales, paro respiratorio, A
+Luis Gomez, infección urinaria, D
+Sofía Martínez, accidente de tránsito, B
+Carlos Herrera, dolor abdominal, C
+Diana Rivas, sangrado nasal, E
+Pablo Ortega, dolor en el pecho, A
+Natalia Ruiz, vómito y diarrea, C
+Samuel Torres, golpe en la cabeza, B
+Valeria Jiménez, mareos leves, D
+Manuel Castro, quemaduras graves, A
